@@ -16,7 +16,7 @@ I'm the creator of [Persistent Ambient Memory Agent](https://github.com/ifeanyi-
 
 <h2> About Me </h2>
 
-- **Chief Product Officer** at **Fabrik** — leading product strategy and building at the frontier of AI-enabled personalization.
+- **Head of Product** at **Fabrik** — leading product strategy and building at the frontier of AI-enabled personalization.
 
 - Creator of **Persistent Ambient Memory Agent** — a 5-agent system (Email Reader → Memory Writer → Action Agent → Reconciliation Agent → Query Agent) that processes your Gmail to build a personal knowledge vault stored as plain-text markdown files you own and control. Any app that you grant access can personalize deeply to you. You don't have to tell any of those apps 'I own an EV' when it can see your last EV charging receipt!
 
